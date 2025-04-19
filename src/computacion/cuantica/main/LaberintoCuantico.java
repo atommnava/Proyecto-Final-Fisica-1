@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 public class LaberintoCuantico {
-    // Variables
+    // Variables DE ENTORNO
     public int contador = 0;
     public char[][] laberinto = {
             {'#','#','#','#','#','#','#','#','#','#','#','#','#','#','#','#','#','#','#','#'},
