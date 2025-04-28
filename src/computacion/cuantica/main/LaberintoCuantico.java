@@ -3,6 +3,7 @@ package computacion.cuantica.main;
 import java.util.LinkedList;
 import java.util.Queue;
 
+// Clase principal
 public class LaberintoCuantico {
     // Variables
     public int contador = 0;
