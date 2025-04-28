@@ -1,9 +1,15 @@
 package computacion.cuantica.main;
 
+// Bibliotecas
 import java.util.LinkedList;
 import java.util.Queue;
 
 // Clase principal
+/* @file LaberintoCuanticp
+ * @brief Archivo
+ * @author Atom Alexander M.Nava
+ * @date 28/04/2025
+ */
 public class LaberintoCuantico {
     // Variables
     public int contador = 0;
@@ -65,7 +71,9 @@ public class LaberintoCuantico {
             }
             laberinto = laberintoTemp;
             imprimirLaberinto();
-            Thread.sleep(1000);
+
+            int M3 = 10;
+            Thread.sleep(M3);
         }
         return false;
     }
