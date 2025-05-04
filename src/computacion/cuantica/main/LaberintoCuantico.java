@@ -11,7 +11,7 @@ import java.util.Queue;
  * @date 28/04/2025
  */
 public class LaberintoCuantico {
-    // Variables
+    // Variables de clase
     public int contador = 0;
     public char[][] laberinto = {
             {'#','#','#','#','#','#','#','#','#','#','#','#','#','#','#','#','#','#','#','#'},
